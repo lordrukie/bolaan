@@ -1,0 +1,21 @@
+{
+	"name": "BOLAAN",
+	"description": "Menampilkan informasi liga sepakbola",
+	"start_url": "/index.html",
+	"display": "standalone",
+	"background_color": "#1dabd8",
+	"theme_color": "#1dabd8",
+	"icons": [
+		{
+			"src": "/assets/image/bola_512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		},
+		{
+			"src": "/assets/image/bola_192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		}
+	],
+	"gcm_sender_id": "221866745235"
+}

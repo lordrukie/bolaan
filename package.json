@@ -1,0 +1,18 @@
+{
+  "name": "bolaan",
+  "version": "1.0.0",
+  "description": "Aplikasi Bola",
+  "main": "index.html",
+  "dependencies": {
+    "web-push": "^3.4.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-config-google": "^0.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yudistira Arya",
+  "license": "ISC"
+}
