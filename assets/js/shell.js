@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
 				document.querySelector('.topnav').innerHTML = xhttp.responseText;
 				// Inisialisasi dropdown materialize
 				$('.dropdown-button').dropdown();
-				$('.carousel').carousel();
+				
 
 				document.querySelectorAll('.link').forEach(function (lnk) {
 					lnk.addEventListener('click', function (event) {
