@@ -1,4 +1,4 @@
-const API_KEY = '101cb5d428ba489f8f9702921cb74950';
+const API_KEY = 'YOUR API TOKEN HERE';
 const BASE_URL = 'https://api.football-data.org/v2/';
 
 const Endpoint_Ing = `${BASE_URL}competitions/2021/standings`;
